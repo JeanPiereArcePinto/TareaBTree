@@ -1,0 +1,7 @@
+# B Tree
+An implementation of the B-tree in java
+
+## Statement
+> Implementa la inserción y eliminación de elementos en un árbol B de orden *k*, dónde *k* es un entero entre 2 y 99999, *k* es el numero máximo de claves en cada nodo
+
+Jean Piere Arce Pinto
